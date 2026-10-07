@@ -1,0 +1,15 @@
+# Скомпилированные классы
+out/
+*.class
+
+# Отчёты SpotBugs (генерируются заново)
+reports/
+
+# Файлы IDE
+.idea/
+*.iml
+.vscode/
+
+# ОС
+.DS_Store
+Thumbs.db
